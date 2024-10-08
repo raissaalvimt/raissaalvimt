@@ -21,12 +21,8 @@
   ##
  
 <div> 
-  <a href="mailto:raissaalvimt@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:raissa.teixeira@fgv.br" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank">
-</a>
-<p>Entre em contato comigo via Microsoft Teams pelo e-mail: raissa.teixeira@fgv.br</p>
-
+  <a href="mailto:raissaalvimt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:raissa.teixeira@fgv.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raissaalvimt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5561996781714" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
