@@ -1,4 +1,3 @@
-![Waving Hand](https://media.giphy.com/media/3oKIPB1Wz8sK0g7Q1C/giphy.gif)
 # 👋 Hi there
 
 - 🔭 I’m currently working on something cool 😉
