@@ -1,4 +1,57 @@
-<h1>👋 Hi there</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Waving Hand</title>
+    <style>
+        @keyframes wave {
+            0%, 20%, 50%, 80%, 100% {
+                transform: rotate(0deg);
+            }
+            10% {
+                transform: rotate(15deg);
+            }
+            30% {
+                transform: rotate(-15deg);
+            }
+            40% {
+                transform: rotate(10deg);
+            }
+            60% {
+                transform: rotate(-10deg);
+            }
+            70% {
+                transform: rotate(5deg);
+            }
+        }
+        .waving-hand {
+            display: inline-block;
+            animation: wave 1s infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1><span class="waving-hand">👋</span> Hi there</h1>
+    <p>This is the place where I open-source stuff and break things 🤣</p>
+
+    <ul>
+        <li>🔭  I’m currently working on something cool 😉</li>
+        <li>🌱  I’m currently learning Flutter, Go</li>
+        <li>💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask</li>
+        <li>👨‍💻  Read more about my projects at <a href="https://gautamkrishnar.com" target="_blank">gautamkrishnar.com</a></li>
+        <li>⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)</li>
+    </ul>
+</body>
+</html>
+
+
+<h2>✨ About Me</h2>
+<p>Bachelor in Statistics, graduated at Universidade de Brasília, to which I hold much affection and gratitude for my journey. I dedicated myself intensely to the art of exploring narratives told through data. During this period, I voluntarily participated in tutoring sessions, helping students from the department of statistics of Universidade de Brasília on developing their programming skills. This experience allowed me to dive deeper into a variety of knowledge and essential tools for data analysis and visualization, such as R, SAS, SQL, Python, C++, and Tableau. Furthermore, I developed skills in creating interactive dashboards, enabling me to convey information intuitively to everyone. Currently, I work as a Technical Support Analyst at Funda ̧c ̃ao Get ́ulio Vargas, where I continue to enhance my knowledge in different programming languages to conduct increasingly precise and effective analyses in the future.</p>
+
+
+<p>You can read more about my open source journey at <a href="https://rpubs.com/rassaalvimt" target="_blank">raissaalvimt</a></p>
+
 
 
 <details>
