@@ -3,9 +3,9 @@
      🛠️ Languages and Tools
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
-    <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+    <img width="48" height="40" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
+    <img width="48" height="40" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
+    <img width="48" height="40" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
