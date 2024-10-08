@@ -6,12 +6,6 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 - 💊 Interested in projects related to healthcare sector
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> everything related to criativity and physical activities<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Lifting%20Weights.png" alt="Woman Lifting Weights" width="25" height="25" /> 
 
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
-<br><br>
-
-
-
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
      🛠️ Languages and Tools
