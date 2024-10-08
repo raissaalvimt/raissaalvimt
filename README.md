@@ -1,3 +1,4 @@
+#Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
 - 💬 Ask me about anything related to data science and analytics
 - ☕ Read more about my projects at (https://rpubs.com/rassaalvimt)
 - 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV
