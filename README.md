@@ -11,6 +11,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
           
             
           
