@@ -1,10 +1,11 @@
-Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 - 💬 Ask me about anything related to data science and analytics
-- ☕ Read more about my projects at (https://rpubs.com/rassaalvimt)
-- 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Read more about my projects at (https://rpubs.com/rassaalvimt)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="25" height="25" /> Currently working at Fundação Getúlio Vargas - FGV
 - 🌱 Currently learning full stack
 - 💊 Interested in projects related to healthcare sector
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I ❤️ art and everything related to criativity
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Lifting%20Weights.png" alt="Woman Lifting Weights" width="25" height="25" /> I 
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
