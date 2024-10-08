@@ -5,7 +5,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 - 🌱 Currently learning full stack
 - 💊 Interested in projects related to healthcare sector
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> everything related to criativity and physical activities<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Lifting%20Weights.png" alt="Woman Lifting Weights" width="25" height="25" /> 
-
+(https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
      🛠️ Languages and Tools
