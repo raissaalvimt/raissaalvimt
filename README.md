@@ -40,7 +40,7 @@
     📄 Download My CV
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
-    <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/English_CV.pdf" download>
+    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/English_CV.pdf" download>
       <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Download CV">
     </a>
   </div>
