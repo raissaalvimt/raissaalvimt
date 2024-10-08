@@ -1,7 +1,5 @@
-<h2>🛠️ Languages and Tools</h2>
-
 <details>
-  <summary style="cursor: pointer; font-size: 18px;">🔽 Click to see Languages and Tools</summary>
+  <summary style="cursor: pointer; font-size: 18px;">Languages and Tools</summary>
   <div style="display: inline-block; margin-top: 10px;">
     <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
