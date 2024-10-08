@@ -21,7 +21,7 @@
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
-    <img src="https://img.icons8.com/fluency/48/contact.png" alt="Contact" width="24"/> 📬 Contact Me
+   📬 Contact Me
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <a href="mailto:raissaalvimt@gmail.com" target="_blank">
