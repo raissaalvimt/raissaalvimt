@@ -1,6 +1,7 @@
 - 💬 Ask me about anything related to data science and analytics
 - ☕ Read more about my projects at (https://rpubs.com/rassaalvimt)
-- 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV 
+- 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV
+- 🌱 Currently learning full stack 
 - ⚡ Fun fact: I ❤️ art and everything related to criativity
 
 <details>
