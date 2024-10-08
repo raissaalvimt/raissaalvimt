@@ -16,8 +16,8 @@
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
-   <img width="50" height="50" src="https://img.icons8.com/stickers/50/wordpress.png" alt="wordpress"/>
-    <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
+   <img width="48" height="50" src="https://img.icons8.com/stickers/50/wordpress.png" alt="wordpress"/>
+    <img width="48" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
   </div>
 </details>
 
