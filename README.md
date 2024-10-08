@@ -41,7 +41,7 @@
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/English_CV.pdf" download>
-      ![Download CV](https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white)
+      <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Download CV">
     </a>
   </div>
 </details>
