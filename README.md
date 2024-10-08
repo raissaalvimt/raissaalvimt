@@ -29,8 +29,5 @@
   <a href="https://wa.me/5561996781714" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  <a href="./curriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-blue?style=for-the-badge" target="_blank">
-  </a>
 </div>
 
