@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 - 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV
 - 🌱 Currently learning full stack
 - 💊 Interested in projects related to healthcare sector
-- ⚡ Fun fact: I ❤️ art and everything related to criativity
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Fun fact: I ❤️ art and everything related to criativity
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
