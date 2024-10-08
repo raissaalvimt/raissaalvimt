@@ -1,5 +1,7 @@
 <details>
-  <summary style="cursor: pointer; font-size: 18px;">Languages and Tools</summary>
+  <summary style="cursor: pointer; font-size: 18px;">
+    <img src="https://img.icons8.com/fluency/48/tools.png" alt="Tools" width="24"/> 🛠️ Languages and Tools
+  </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
@@ -16,15 +18,24 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
   </div>
 </details>
+
 <details>
-  <summary style="cursor: pointer; font-size: 18px;">Contact Me</summary>
+  <summary style="cursor: pointer; font-size: 18px;">
+    <img src="https://img.icons8.com/fluency/48/contact.png" alt="Contact" width="24"/> 📬 Contact Me
+  </summary>
   <div style="display: inline-block; margin-top: 10px;">
-<div> 
-  <a href="mailto:raissaalvimt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raissaalvimt/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5561996781714" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+    <a href="mailto:raissaalvimt@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/raissaalvimt/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://wa.me/5561996781714" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
+    <a href="./curriculo.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-blue?style=for-the-badge" target="_blank">
+    </a>
+  </div>
+</details>
 
