@@ -31,7 +31,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
-   📬 Contact Me
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact Me
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <a href="mailto:raissaalvimt@gmail.com" target="_blank">
