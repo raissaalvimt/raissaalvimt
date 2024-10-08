@@ -1,11 +1,8 @@
 <h2>🛠️ Languages and Tools</h2>
-<label for="toggle-languages" style="cursor: pointer; font-size: 18px; display: inline-block;">
-  <span>🔽 Click to see Languages and Tools</span>
-</label>
-<input type="checkbox" id="toggle-languages" style="display: none;">
 
-<div id="languages" style="display: none;">
-  <div style="display: inline_block; margin-top: 10px;">
+<details>
+  <summary style="cursor: pointer; font-size: 18px;">🔽 Click to see Languages and Tools</summary>
+  <div style="display: inline-block; margin-top: 10px;">
     <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
@@ -20,20 +17,20 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
   </div>
-</div>
-
-<script>
-  const toggle = document.getElementById('toggle-languages');
-  const languagesDiv = document.getElementById('languages');
-  toggle.addEventListener('change', () => {
-    languagesDiv.style.display = toggle.checked ? 'block' : 'none';
-  });
-</script>
+</details>
 
 <div> 
-  <a href="mailto:raissaalvimt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raissaalvimt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5561996781714" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="./curriculo.pdf" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-blue?style=for-the-badge" target="_blank"></a>
+  <a href="mailto:raissaalvimt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/raissaalvimt/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://wa.me/5561996781714" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="./curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-blue?style=for-the-badge" target="_blank">
+  </a>
 </div>
 
