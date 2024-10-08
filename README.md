@@ -3,10 +3,6 @@
 - 👨‍💻 Currently working at Fundação Getúlio Vargas - FGV 
 - ⚡ Fun fact: I ❤️ art and everything related to criativity
 
-<h2>✨ About Me</h2>
-<p>Bachelor in Statistics, graduated at Universidade de Brasília, to which I hold much affection and gratitude for my journey. I dedicated myself intensely to the art of exploring narratives told through data. During this period, I voluntarily participated in tutoring sessions, helping students from the department of statistics of Universidade de Brasília on developing their programming skills. This experience allowed me to dive deeper into a variety of knowledge and essential tools for data analysis and visualization, such as R, SAS, SQL, Python, C++, and Tableau. Furthermore, I developed skills in creating interactive dashboards, enabling me to convey information intuitively to everyone. Currently, I work as a Technical Support Analyst at Fundação Getúlio Vargas, where I continue to enhance my knowledge in different programming languages to conduct increasingly precise and effective analyses in the future.</p>
-
-
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
      🛠️ Languages and Tools
