@@ -1,49 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Waving Hand</title>
-    <style>
-        @keyframes wave {
-            0%, 20%, 50%, 80%, 100% {
-                transform: rotate(0deg);
-            }
-            10% {
-                transform: rotate(15deg);
-            }
-            30% {
-                transform: rotate(-15deg);
-            }
-            40% {
-                transform: rotate(10deg);
-            }
-            60% {
-                transform: rotate(-10deg);
-            }
-            70% {
-                transform: rotate(5deg);
-            }
-        }
-        .waving-hand {
-            display: inline-block;
-            animation: wave 1s infinite;
-        }
-    </style>
-</head>
-<body>
-    <h1><span class="waving-hand">👋</span> Hi there</h1>
-    <p>This is the place where I open-source stuff and break things 🤣</p>
+![Waving Hand](https://yourlinktoanimatedgif.com)
+# 👋 Hi there
+This is the place where I open-source stuff and break things 🤣
 
-    <ul>
-        <li>🔭  I’m currently working on something cool 😉</li>
-        <li>🌱  I’m currently learning Flutter, Go</li>
-        <li>💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask</li>
-        <li>👨‍💻  Read more about my projects at <a href="https://gautamkrishnar.com" target="_blank">gautamkrishnar.com</a></li>
-        <li>⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)</li>
-    </ul>
-</body>
-</html>
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning Flutter, Go
+- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 Read more about my projects at [gautamkrishnar.com](https://gautamkrishnar.com)
+- ⚡ Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)
+
 
 
 <h2>✨ About Me</h2>
