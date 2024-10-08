@@ -1,5 +1,6 @@
 <div style="display: inline_block"><br>
    <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
