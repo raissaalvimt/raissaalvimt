@@ -1,6 +1,6 @@
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
-    <img src="https://img.icons8.com/fluency/48/tools.png" alt="Tools" width="24"/> 🛠️ Languages and Tools
+     🛠️ Languages and Tools
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
