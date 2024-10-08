@@ -35,3 +35,14 @@
   </div>
 </details>
 
+<details>
+  <summary style="cursor: pointer; font-size: 18px;">
+    📄 Download My CV
+  </summary>
+  <div style="display: inline-block; margin-top: 10px;">
+    <a href="./path/to/your/cv.pdf" download>
+      <img src="https://img.shields.io/badge/Download%20My%20CV-blue?style=for-the-badge" target="_blank">
+    </a>
+  </div>
+</details>
+
