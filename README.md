@@ -1,13 +1,11 @@
-![Waving Hand](https://yourlinktoanimatedgif.com)
+![Waving Hand](https://media.giphy.com/media/3oKIPB1Wz8sK0g7Q1C/giphy.gif)
 # 👋 Hi there
-This is the place where I open-source stuff and break things 🤣
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Flutter, Go
 - 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 Read more about my projects at  <a href="https://rpubs.com/rassaalvimt" target="_blank">raissaalvimt</a>
+- 👨‍💻 Read more about my projects at [gautamkrishnar.com](https://gautamkrishnar.com)
 - ⚡ Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)
-
 
 
 <h2>✨ About Me</h2>
