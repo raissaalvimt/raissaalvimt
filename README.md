@@ -1,3 +1,5 @@
+<h2>🛠️ Languages and Tools</h2>
+<p>
 <div style="display: inline_block"><br>
    <img width="48" height="48" src="https://img.icons8.com/glassmorphism/48/database.png" alt="database"/>
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
@@ -12,6 +14,7 @@
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
+</p>
           
             
           
