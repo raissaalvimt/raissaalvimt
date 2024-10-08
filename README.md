@@ -16,7 +16,9 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
   </div>
 </details>
-
+<details>
+  <summary style="cursor: pointer; font-size: 18px;">Contact Me</summary>
+  <div style="display: inline-block; margin-top: 10px;">
 <div> 
   <a href="mailto:raissaalvimt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
