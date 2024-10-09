@@ -48,7 +48,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
     📄 Download My Resume
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
-    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_CV_Port_ (11) (3).pdf" download>      
+    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_RESUME.pdf" download>      
       <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume">
     </a>
   </div>
