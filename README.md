@@ -56,7 +56,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
-    📄 Portifolio (soon...)
+    📰 My Portifolio (soon...)
   </summary>
   
 
