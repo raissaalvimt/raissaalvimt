@@ -20,10 +20,8 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
     <img width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/moodle.png" alt="moodle"/>
    <img width="40" height="40" src="https://img.icons8.com/stickers/50/wordpress.png" alt="wordpress"/>
     <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
   </div>
