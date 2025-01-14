@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Banner" style="border-radius: 10px;" width="100%" />
+  <img src="statisticsdatascience.png" alt="Banner" style="border-radius: 10px;" width="100%" />
 </p>
 
 Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="25" height="25" /> 
