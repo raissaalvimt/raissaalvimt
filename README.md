@@ -21,7 +21,6 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
     <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
    <img width="40" height="40" src="https://img.icons8.com/stickers/50/wordpress.png" alt="wordpress"/>
-    <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo.png" alt="external-elementor-the-wordpress-page-builder-a-simple-intuitive-drag-and-drop-interface-logo-shadow-tal-revivo"/>
   </div>
 </details>
 
