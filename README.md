@@ -43,11 +43,18 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
     📄 Download My Resume
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
-    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_PORTUGUÊS.pdf" download>      
-      <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Currículo Português">
+    <!-- Currículo em Português -->
+    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_PORTUGUÊS.pdf" download>
+      <img src="https://img.shields.io/badge/Currículo%20em%20Português-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Currículo Português">
+    </a>
+    <br><br>
+    <!-- Resume in English -->
+    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_ENGLISH.pdf" download>
+      <img src="https://img.shields.io/badge/English%20Resume-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="English Resume">
     </a>
   </div>
 </details>
+
 
 
   
