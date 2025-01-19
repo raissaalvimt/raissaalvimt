@@ -44,7 +44,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
   </summary>
   <div style="display: inline-block; margin-top: 10px;">
     <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_PORTUGUÊS.pdf" download>      
-      <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume">
+      <img src="https://img.shields.io/badge/Download%20CV-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Currículo Português">
     </a>
   </div>
 </details>
