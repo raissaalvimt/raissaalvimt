@@ -1186,12 +1186,12 @@ input, select, textarea {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('assets/images/your-image.jpg'); /* Substitua pelo caminho da imagem */
-    background-size: cover; /* A imagem se ajusta à tela */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita repetição da imagem */
-    z-index: -1; /* Garante que fique atrás de todo o conteúdo */
+    background-image: url('../../images/Imagem do WhatsApp de 2024-10-20 à(s) 19.54.03_897721ca.jpg'); /* Atualize conforme a localização real */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 /* Wrapper */
 
