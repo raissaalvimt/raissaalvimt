@@ -1250,6 +1250,77 @@ input, select, textarea {
 
 /* Header */
 
+/* Centraliza todo o conteúdo na tela */
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh; /* Faz o header ocupar a altura total da tela */
+    background: transparent; /* Mantém o fundo transparente */
+}
+
+/* Estiliza a foto de perfil */
+.profile-picture {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Estiliza o nome */
+#header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+/* Estiliza a descrição */
+#header h2 {
+    font-size: 1.5em;
+    color: #888;
+    margin-bottom: 15px;
+}
+
+/* Ícones sociais */
+.social-icons ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons ul li a {
+    font-size: 1.5em;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.social-icons ul li a:hover {
+    color: #ff9900; /* Cor ao passar o mouse */
+}
+
+/* Menu de navegação */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    font-size: 1.2em;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ff9900;
+}
+
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
