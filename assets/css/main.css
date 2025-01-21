@@ -1106,6 +1106,47 @@ input, select, textarea {
 
 /* BG */
 
+/* Fundo do site */
+body {
+    background-image: url('assets/wade-meng-LgCj9qcrfhI-unsplash.jpg'); /* Certifique-se de que o caminho está correto */
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-attachment: fixed; /* Mantém o fundo fixo ao rolar a página */
+    color: #ffffff; /* Ajuste para o texto permanecer visível */
+}
+
+/* Fundo do elemento #bg */
+#bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../../images/Imagem-do-WhatsApp-de-2024-10-20.jpg'); /* Atualize conforme o local correto da imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1; /* Garante que o fundo fique atrás de todos os elementos */
+}
+
+/* Outras melhorias */
+.image:before {
+    pointer-events: none;
+    background-image: url('../../images/wade-meng-LgCj9qcrfhI-unsplash.jpg'); /* Corrija o caminho */
+    background-color: rgba(19, 21, 25, 0.5);
+    border-radius: 4px;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+
 	#bg {
 		-moz-transform: scale(1.0);
 		-webkit-transform: scale(1.0);
