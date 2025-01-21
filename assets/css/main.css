@@ -1659,3 +1659,19 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.subtitle {
+    font-size: 1.2rem; /* Ajuste o tamanho conforme necessário */
+    letter-spacing: 0.2rem; /* Espaçamento entre letras */
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+    font-weight: 600; /* Mantém o peso */
+    line-height: 1.5; /* Define o espaçamento entre linhas */
+    color: #ffffff; /* Cor branca */
+}
+
+@media screen and (max-width: 736px) {
+    .subtitle {
+        font-size: 1rem; /* Ajuste para telas menores */
+    }
+}
+
