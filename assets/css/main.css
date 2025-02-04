@@ -436,8 +436,9 @@ input, select, textarea {
 			box-shadow: 0 0 0 1px #000000;
 		}
 
+
 	select {
-		 background-image: url('../images/bg.jpg');
+		 bbackground-image: none;
     background-size: cover; /* Para cobrir toda a tela */
     background-position: center; /* Centralizar a imagem */
     background-repeat: no-repeat; /* Evitar repetição */
@@ -1173,8 +1174,9 @@ body.is-article-visible #bg:after {
     filter: none;
 }
 
-body.is-preload #bg:before {
-    background-color: #ffffff; /* Fundo branco no preload */
+#bg:before {
+    background-image: none;
+    background-color: transparent;
 }
 
 /* Wrapper */
@@ -1663,8 +1665,9 @@ body.is-preload #bg:before {
     text-transform: uppercase; /* Deixa o texto em maiúsculas */
     font-weight: 600; /* Mantém o peso */
     line-height: 1.5; /* Define o espaçamento entre linhas */
-    color: #ffffff; /* Cor branca */
+    color: #000000; /* Altera a cor para preto */
 }
+
 
 @media screen and (max-width: 736px) {
     .subtitle {
