@@ -288,11 +288,11 @@ input, select, textarea {
 			overflow-x: auto;
 		}
 
-	hr {
-		border: 0;
-		border-bottom: solid 1px #000000;
-		margin: 2.75rem 0;
-	}
+	hr, .line, .divider {
+    border-color: #000000 !important;
+    border-width: 1px;
+    border-style: solid;
+}
 
 	.align-left {
 		text-align: left;
@@ -1278,7 +1278,7 @@ body.is-article-visible #bg:after {
 				left: calc(50% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
-				background: #ffffff;
+				background: #000000;
 			}
 
 		#header > :first-child {
@@ -1293,7 +1293,7 @@ body.is-article-visible #bg:after {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 1px #000000;
 			border-radius: 100%;
 		}
 
@@ -1303,7 +1303,7 @@ body.is-article-visible #bg:after {
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: #000000;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1342,13 +1342,13 @@ body.is-article-visible #bg:after {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 1px #000000;
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 1px #000000;
 			}
 
 				#header nav ul li:first-child {
@@ -1383,7 +1383,7 @@ body.is-article-visible #bg:after {
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #ffffff;
+			background: #000000;
 		}
 
 		#header nav.use-middle ul li.is-middle {
@@ -1480,7 +1480,7 @@ body.is-article-visible #bg:after {
 
 					#header nav ul li {
 						border-left: 0;
-						border-top: solid 1px #ffffff;
+						border-top: solid 1px #000000;
 					}
 
 						#header nav ul li:first-child {
