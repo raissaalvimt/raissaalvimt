@@ -431,9 +431,14 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			background: rgba(255, 255, 255, 0.075);
-			border-color: #000000;
-			box-shadow: 0 0 0 1px #000000;
+		
+background: white !important;
+border-color: black !important;
+box-shadow: 0 0 0 1px black !important;
+color: black !important;
+
+
+			
 		}
 
 
