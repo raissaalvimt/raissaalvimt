@@ -5,6 +5,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="25" height="25" /> Currently working at Fundação Getúlio Vargas - FGV
 - 🌱 Currently learning full stack
 - 💊 Interested in projects related to healthcare sector
+- 🏋️‍♀️ Active lifestyle 💪
 
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
