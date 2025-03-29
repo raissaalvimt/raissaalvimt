@@ -45,11 +45,11 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
   </summary>
   <div style="display: flex; gap: 10px; margin-top: 10px;">
     <!-- Currículo em Português -->
-    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_PORTUGUÊS.pdf" download>
+    <a href="[https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_PORTUGUÊS.pdf](https://github.com/raissaalvimt/ResumePDF/blob/main/Ra%C3%ADssa_Alvim_Resume%20(3)%20(1).pdf)" download>
       <img src="https://img.shields.io/badge/Currículo%20em%20Português-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="Currículo Português">
     </a>
     <!-- Resume in English -->
-    <a href="https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_ENGLISH.pdf" download>
+    <a href="[https://github.com/raissaalvimt/CVpdf/raw/main/Raíssa_Alvim_CV_ENGLISH.pdf](https://github.com/raissaalvimt/ResumePDF/blob/main/Ra%C3%ADssa_Alvim_Resume%20(4)%20(1).pdf)" download>
       <img src="https://img.shields.io/badge/English%20Resume-007BFF?style=for-the-badge&logo=adobe&logoColor=white" alt="English Resume">
     </a>
   </div>
