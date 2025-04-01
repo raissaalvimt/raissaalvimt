@@ -442,8 +442,13 @@ color: black !important;
 		}
 
 
-	select {
-background-image: url('assets/images/Imagem do WhatsApp de 2024-10-20 à(s) 19.54.03_897721ca.jpg');
+
+		select {
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+}
+
 
     background-size: cover; /* Para cobrir toda a tela */
     background-position: center; /* Centralizar a imagem */
@@ -1689,6 +1694,8 @@ body.is-article-visible #bg:after {
   text-align: center;
   margin-bottom: 2em;
 }
+
+
 
 .logo-img {
   width: 120px;
