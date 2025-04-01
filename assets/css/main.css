@@ -1684,3 +1684,20 @@ body.is-article-visible #bg:after {
     }
 }
 
+
+.logo-container {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.logo-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1em auto;
+  display: block;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+
