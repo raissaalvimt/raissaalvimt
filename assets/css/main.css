@@ -1779,4 +1779,11 @@ hr.major {
 }
 
 
+.skills-divider {
+  border: none;
+  height: 1px;
+  width: 80%;
+  background-color: #aaa;
+  margin: 2em auto 2em auto;
+}
 
