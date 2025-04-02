@@ -1780,5 +1780,13 @@ body.is-article-visible #bg:after {
   margin: 20px auto;
 }
 
+
+.skills-separator {
+  width: 60%;
+  margin: 1.5em auto;
+  border-top: 1px solid #ddd;
+}
+
+
 border-top: 1px dashed #bbb;
 
