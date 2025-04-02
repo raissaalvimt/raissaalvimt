@@ -1772,5 +1772,12 @@ body.is-article-visible #bg:after {
 #header nav ul li a:hover {
 	background-color: rgba(0, 0, 0, 0.08);
 }
+.section-divider {
+  border: none;
+  height: 1px;
+  width: 60%;
+  background-color: #ccc;
+  margin: 20px auto;
+}
 
 
