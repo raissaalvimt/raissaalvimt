@@ -25,17 +25,6 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
   </div>
 </details>
 
-## 📊 GitHub Stats
-
-![Raíssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raissaalvimt&show_icons=true&theme=tokyonight&rank_icon=percentile)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissaalvimt&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=raissaalvimt&theme=tokyonight)
-
-
-
-
 <details>
   <summary style="cursor: pointer; font-size: 18px;">
    📧 Contact Me
@@ -65,6 +54,15 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
     </a>
   </div>
 </details>
+
+## 📊 GitHub Stats
+
+![Raíssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raissaalvimt&show_icons=true&theme=tokyonight&rank_icon=percentile)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raissaalvimt&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=raissaalvimt&theme=tokyonight)
+
 
 
 
